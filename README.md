@@ -2,7 +2,7 @@
 - 👀 I’m interested in All Things Data
 - 🌱 I’m currently learning a bit of everything - Data Viz, AI, ML, R, Python, annd tools/processes of the pro
 - 💞️ I’m looking to collaborate on open to ideas
-- 🌐 [Portfolio and Website](https://https://theyvonne.com/portfolio)
+- 🌐 [Portfolio and Website](https://theyvonne.com/portfolio)
 - 📫 [Email](https://theyvonne.com/contact)
 
 <!---
