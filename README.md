@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @YvonneBeirneFitzGerald
-- 👀 I’m interested in All Things Data
-- 🌱 I’m currently learning a bit of everything - Data Viz, AI, ML, R, Python, D3 and tools/processes of the pro
-- 💞️ I’m looking to collaborate on open to ideas
+- 👀 I’m interested in All Things Data, Quality, Public Health, and Biomedical
+- 📄 I enjoy creating user Documentation and tools
+- 💞️ I’m looking to collaborate 
 - 🌐 [Portfolio and Website](https://theyvonne.com/portfolio)
 - 📫 [Email](https://theyvonne.com/contact)
 
