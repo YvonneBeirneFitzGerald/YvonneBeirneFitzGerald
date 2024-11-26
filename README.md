@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @YvonneBeirneFitzGerald
-- 👀 I’m interested in All Things Data, Quality, Public Health, and Biomedical
-- 📄 I enjoy creating user Documentation and tools
-- 💞️ I’m looking to collaborate 
+- 📊 Exploring the intersection of data, quality, public health, and biomedicine.
+- 📄 Passionate about creating clear user documentation and intuitive tools.
+- 🔧 Always interested in teaming up on open-source projects
 - 🌐 [Portfolio and Website](https://theyvonne.com/portfolio)
 - 📫 [Email](https://theyvonne.com/contact)
 
